@@ -5,7 +5,12 @@ It probably replaces Toyota **81153-22520 "Bearing, Headlamp"** (from parts-cata
 
 ![preview](images/preview.png)
 
-> **Status: v6.** Built from caliper measurements of a broken original from a 1985 US Cressida. v5 was printed and assembled: the ball only came out under a firm pull with pliers, and the part did not break. v6 makes the hub stronger and the ball harder to pull out (about +35%, estimated, not measured yet). Fit on other model years has not been checked. Print `cressida_headlamp_bearing_v6_fork_test.stl` first to check the click and hold with your screw.
+> **Status: v6, printed and tested: works well.** Built from caliper measurements of a broken original from a 1985 US Cressida. v5 was also printed and assembled: the ball only came out under a firm pull with pliers, and the part did not break. v6 makes the hub stronger and the ball harder to pull out (about +35% by estimate). Fit on other model years has not been checked. If your screw or printer is different, print `cressida_headlamp_bearing_v6_fork_test.stl` first to check the click and hold.
+
+## Real prints
+![Printed parts next to the original part and aiming screw](images/real_prints.jpg)
+
+As printed, before cleanup: grey PETG parts (two with the M6 nut already in the side slot), next to the broken original (black) and the original aiming screw with its Ø8 mm ball.
 
 ## How it works
 - The part bolts to the back of the headlamp with an M6 stud. A Ø4 mm pin keys it to the lamp bracket so it cannot turn.
